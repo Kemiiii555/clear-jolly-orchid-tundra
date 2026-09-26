@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "For Eshu",
+      "hasCanvas": false,
+      "bodyTextLen": 113,
+      "bodyTextHash": "9ac6b6c1d3a7081b1fddf76e254d7f8354f9ce65cbdb829c6bd22c3fb726fa44",
+      "bodyTextPrefix": "A PRIVATE GIFT For Eshu Enter the year that opened this door. Fo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "For Eshu",
+      "hasCanvas": false,
+      "bodyTextLen": 113,
+      "bodyTextHash": "9ac6b6c1d3a7081b1fddf76e254d7f8354f9ce65cbdb829c6bd22c3fb726fa44",
+      "bodyTextPrefix": "A PRIVATE GIFT For Eshu Enter the year that opened this door. Fo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
